@@ -1,12 +1,20 @@
-Holacracy
+# Holacracy by Julie and Henrike
 
 ---
-Definition of Holacracy 
+# Definition of Holacracy 
 
 ---
 
-Approach of Holacracy
-![Holacracy1](Users/henrikekannen/Downloads/Unbenanntes Notizbuch-7.jpg)
+# Approach of Holacracy
+![Holacracy1](Macintosh HD/Benutzer/henrikekannen/Downloads/Holacracy.jpg)
+
+
+
+
+--- 
+
+# Advantage and disadvantage of Holacracy
+--- 
 
 
 
