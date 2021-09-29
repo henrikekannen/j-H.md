@@ -4,7 +4,9 @@
 # Definition of Holacracy 
 
 ---
-![Holacracy1](https://ibb.co/9nXCZwG)
+![Holacracy1](/Users/henrikekannen/Documents/GitHub/j-H.md/Unbenanntes Notizbuch-7.jpg)
+
+‚
 
 
 --- 
