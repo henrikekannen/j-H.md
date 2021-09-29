@@ -2,11 +2,14 @@
 
 ---
 # Definition of Holacracy 
+![Holacracy](Holacracy.jpg)
 
----
-![Holacracy1](/Users/henrikekannen/Documents/GitHub/j-H.md/Unbenanntes Notizbuch-7.jpg)
 
-‚
+
+
+
+
+
 
 
 --- 
