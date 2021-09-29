@@ -4,16 +4,9 @@
 # Definition of Holacracy 
 
 ---
-
-# Approach of Holacracy
-![Holacracy1](Macintosh HD/Benutzer/henrikekannen/Downloads/Holacracy.jpg)
+![Holacracy1](https://ibb.co/9nXCZwG)
 
 
-
-
---- 
-
-# Advantage and disadvantage of Holacracy
 --- 
 
 
