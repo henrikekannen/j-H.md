@@ -21,7 +21,7 @@
 
 ---
 Circlestructure of Holacracy
-![Circlestructure](Circlestructure.jpg)
+![Circlestructure](Circlestructures.jpg)
 
 ---
 # New Meeting Format 
@@ -44,7 +44,8 @@ Circlestructure of Holacracy
 -The purpose of this meeting is a list with to dos which is than distributed among the circle members
 
 
-
+---
+![HolavsHierarchical](HolacraticvsHierarchical.jpg)
 ---
 
 Holacracy is an upcoming trend <span style="color:red">trend</span>.
