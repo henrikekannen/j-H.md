@@ -10,7 +10,7 @@
 
 
 ---
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/wcXBCSy/Circlestructurem.jpg" alt="Circlestructurem" border="0"></a>
+
 
 ---
 # Roles in Holacracy
@@ -20,8 +20,7 @@
 - Members **define** and **develop** these roles and can also decide which roles should be **abolished**
 
 ---
-Circlestructure of Holacracy<a href="https://ibb.co/47XLrDV"><img src="https://i.ibb.co/9N105fr/Holacraticvs-Hierarchical.jpg" alt="Holacraticvs-Hierarchical" border="0"></a>
-
+Circlestructure of Holacracy <a href="https://ibb.co/DLJjbpc"><img src="https://i.ibb.co/wYk2LsG/Circlestructure-black.jpg" alt="Circlestructure-black" border="0"></a>
 ---
 # New Meeting Format 
 ## Governance Meetings
@@ -47,6 +46,17 @@ Circlestructure of Holacracy<a href="https://ibb.co/47XLrDV"><img src="https://i
 <a href="https://ibb.co/47XLrDV"><img src="https://i.ibb.co/9N105fr/Holacraticvs-Hierarchical.jpg" alt="Holacraticvs-Hierarchical" border="0"></a>
 ---
 
+
+
+
+
+
+
+
+
+
+
+---
 Holacracy is an upcoming trend <span style="color:red">trend</span>.
 
 
@@ -58,7 +68,4 @@ Holacracy is an upcoming trend <span style="color:red">trend</span>.
 
 
 
---- 
-# Hallo Henni
-## Hallo Julie 
-
+-
