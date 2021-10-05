@@ -20,8 +20,7 @@
 - Members **define** and **develop** these roles and can also decide which roles should be **abolished**
 
 ---
-Circlestructure of Holacracy
-![Circlestructure](Circlestructures.jpg)
+Circlestructure of Holacracy<a href="https://ibb.co/47XLrDV"><img src="https://i.ibb.co/9N105fr/Holacraticvs-Hierarchical.jpg" alt="Holacraticvs-Hierarchical" border="0"></a>
 
 ---
 # New Meeting Format 
