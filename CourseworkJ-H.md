@@ -10,7 +10,7 @@
 
 
 ---
-![Holacracy](Holacracy.jpg)
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/wcXBCSy/Circlestructurem.jpg" alt="Circlestructurem" border="0"></a>
 
 ---
 # Roles in Holacracy
@@ -44,7 +44,7 @@ Circlestructure of Holacracy<a href="https://ibb.co/47XLrDV"><img src="https://i
 
 
 ---
-![HolavsHierarchical](HolacraticvsHierarchical.jpg)
+<a href="https://ibb.co/47XLrDV"><img src="https://i.ibb.co/9N105fr/Holacraticvs-Hierarchical.jpg" alt="Holacraticvs-Hierarchical" border="0"></a>
 ---
 
 Holacracy is an upcoming trend <span style="color:red">trend</span>.
