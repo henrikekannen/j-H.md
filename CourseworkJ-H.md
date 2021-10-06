@@ -10,9 +10,6 @@
 
 
 ---
-
-
----
 # Roles in Holacracy
 
 - When a new **role** is defined it is than assigned to a **member** of the organization to fill an **execute**
@@ -20,7 +17,8 @@
 - Members **define** and **develop** these roles and can also decide which roles should be **abolished**
 
 ---
-Circlestructure of Holacracy <a href="https://ibb.co/DLJjbpc"><img src="https://i.ibb.co/wYk2LsG/Circlestructure-black.jpg" alt="Circlestructure-black" border="0"></a>
+# Circlestructure of Holacracy
+ <a href="https://ibb.co/DLJjbpc"><img src="https://i.ibb.co/wYk2LsG/Circlestructure-black.jpg" alt="Circlestructure-black" border="0"></a>
 ---
 # New Meeting Format 
 ## Governance Meetings
