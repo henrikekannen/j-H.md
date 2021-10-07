@@ -39,12 +39,46 @@
 - Are held once a week 
 -The purpose of this meeting is a list with to dos which is than distributed among the circle members
 
+---
+
+# Related Concepts 
+## Agile and Scrum 
 
 ---
+# Hierarchy vs. Holacracy
 <a href="https://ibb.co/47XLrDV"><img src="https://i.ibb.co/9N105fr/Holacraticvs-Hierarchical.jpg" alt="Holacraticvs-Hierarchical" border="0"></a>
 ---
 
+# Hierarchy vs. Holacracy
 
+| Hierarchy                   | Holacracy                       |
+| --------------------------- | ------------------------------- |
+| Static job descriptions     | Dynamic roles                   |
+| Delegated authority         | Shared authority                | 
+| Major reorganizations       | Fast and iterative improvements |
+| Firm policies               | Transparent rules               |
+
+---
+
+# Advantages and Challenges
+## <span style="color:green;">ADVANTAGES</span>
+
+- <span style="color:green;">Agility</span>
+
+- <span style="color:green;">Transparency</span>
+
+- <span style="color:green;">Improvement culture</span>
+
+- <span style="color:green;">Better use of individual talents</span>
+
+--- 
+
+# Advantages and Challenges
+## <span style="color:red;">CHALLENGES</span>
+
+- <span style="color:red;">Rules and complexity</span>
+
+- <span style="color:red;">Cultural fit is important</span>
 
 
 
