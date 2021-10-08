@@ -6,12 +6,15 @@
 2. Approach of Holacracy 
 3. Holacracy vs. Hierarchy 
 4. Advantages and Disadvantages of Holacracy 
-5. Is Holacracy right for your business? 
+5. Zappos and its Holacracy approach
 
-
+---
+# What does Holacracy promise?
+<a href="https://ibb.co/y0b0LT5"><img src="https://i.ibb.co/jh1h7KG/Whatdoes-Holacracypromise.jpg" alt="Whatdoes-Holacracypromise" border="0"></a>
 ---
 # Roles in Holacracy
 
+- In Holacracy the employees do not have "job descriptions" they are organizes as <span style="color:red">roles</span>
 - When a new **role** is defined it is than assigned to a **member** of the organization to fill an **execute**
 - One **member** can have **many different roles**
 - Members **define** and **develop** these roles and can also decide which roles should be **abolished**
@@ -39,6 +42,11 @@
 - Are held once a week 
 -The purpose of this meeting is a list with to dos which is than distributed among the circle members
 
+---
+# Integrative decision making 
+
+1. Any circle member can propose changes 
+2. Employees can only propose changes that effect their own work 
 ---
 
 # Related Concepts 
