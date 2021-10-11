@@ -97,6 +97,10 @@
 
 - <span style="color:red;">Transition from hierarchic management to Holacracy takes time & effort </span>
 
+---
 
+# Zappos an it's Holacracy Approach
 
 ---
+
+# References
