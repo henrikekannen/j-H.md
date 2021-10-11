@@ -1,12 +1,13 @@
-# Holacracy 
+# HOLACRACY
 ## by Julie and Henrike
 
 ---
-1. Definition of Holacracy 
+# Agenda
+1. Introduction to the Concept
 2. Approach of Holacracy 
 3. Holacracy vs. Hierarchy 
-4. Advantages and Disadvantages of Holacracy 
-5. Zappos and its Holacracy approach
+4. Advantages and Challenges of Holacracy 
+5. Zappos and its Holacracy Approach
 
 ---
 # What does Holacracy promise?
@@ -47,10 +48,6 @@
 
 1. Any circle member can propose changes 
 2. Employees can only propose changes that effect their own work 
----
-
-# Related Concepts 
-## Agile and Scrum 
 
 ---
 # Hierarchy vs. Holacracy
@@ -67,45 +64,39 @@
 | Firm policies               | Transparent rules               |
 
 ---
+# Hierarchy vs. Holacracy
+> "Reading the introductory articles about Holacracy and the Holacracy Constitution 4.0, one can't help but get the impression that Holacracy is hierarchy on steroids." – Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
+## What do you think? 
+---
 # Advantages and Challenges
 ## <span style="color:green;">ADVANTAGES</span>
 
-- <span style="color:green;">Agility</span>
+- <span style="color:green;">Increases agility, flexibility, efficiency & transparency</span>
 
-- <span style="color:green;">Transparency</span>
+- <span style="color:green;">Encourages team members to take initiative</span>
 
-- <span style="color:green;">Improvement culture</span>
+- <span style="color:green;">Provides a process in which team members ideas and concerns are recognized</span>
 
-- <span style="color:green;">Better use of individual talents</span>
+- <span style="color:green;">Better use of indivdual talents</span>
+
+- <span style="color:green;">Reduces the burden of leaders</span>
 
 --- 
 
 # Advantages and Challenges
 ## <span style="color:red;">CHALLENGES</span>
 
-- <span style="color:red;">Rules and complexity</span>
+- <span style="color:red;">Needs special pre-conditions</span>
+
+- <span style="color:red;">Complex system of rules</span>
 
 - <span style="color:red;">Cultural fit is important</span>
 
+- <span style="color:red;">Self-organization requires a high level of discipline </span>
 
-
-
-
-
-
-
-
----
-Holacracy is an upcoming trend <span style="color:red">trend</span>.
+- <span style="color:red;">Transition from hierarchic management to Holacracy takes time & effort </span>
 
 
 
 ---
-<span style="color:green;">TEST</span>
-
-
-
-
-
--
