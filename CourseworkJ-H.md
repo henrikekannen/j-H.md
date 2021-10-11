@@ -38,10 +38,11 @@
 # New Meeting Format 
 ## Tactical Meetings
 - Are held once a week 
--The purpose of this meeting is a list with to dos which is than distributed among the circle members
+- Focus on team's operationa#l work 
+- Discuss issues that came up lately and to solve problems 
 ---
 # Circlestructure of Holacracy
- <a href="https://ibb.co/DLJjbpc"><img src="https://i.ibb.co/wYk2LsG/Circlestructure-black.jpg" alt="Circlestructure-black" border="0"></a>
+<a href="https://ibb.co/MN3Qp3Q"><img src="https://i.ibb.co/RHVdPVd/Holacracy-11.jpg" alt="Holacracy-11" border="0"></a>
 ---
 ---
 # Integrative decision making 
