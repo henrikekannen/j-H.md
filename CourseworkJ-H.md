@@ -20,9 +20,6 @@
 - Members **define** and **develop** these roles and can also decide which roles should be **abolished**
 
 ---
-# Circlestructure of Holacracy
- <a href="https://ibb.co/DLJjbpc"><img src="https://i.ibb.co/wYk2LsG/Circlestructure-black.jpg" alt="Circlestructure-black" border="0"></a>
----
 # New Meeting Format 
 ## Governance Meetings
 - Are held at least one a month 
@@ -41,7 +38,10 @@
 ## Tactical Meetings
 - Are held once a week 
 -The purpose of this meeting is a list with to dos which is than distributed among the circle members
-
+---
+# Circlestructure of Holacracy
+ <a href="https://ibb.co/DLJjbpc"><img src="https://i.ibb.co/wYk2LsG/Circlestructure-black.jpg" alt="Circlestructure-black" border="0"></a>
+---
 ---
 # Integrative decision making 
 
