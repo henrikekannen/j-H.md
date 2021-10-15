@@ -1,6 +1,8 @@
 # HOLACRACY
 ## by Julie and Henrike
 
+https://github.com/henrikekannen/j-H.md.git
+
 ---
 # Agenda
 1. Introduction to the Concept
@@ -10,7 +12,7 @@
 5. Zappos and its Holacracy Approach
 
 ---
-# What does Holacracy promise?
+## What does Holacracy promise?
 <a href="https://ibb.co/y0b0LT5"><img src="https://i.ibb.co/jh1h7KG/Whatdoes-Holacracypromise.jpg" alt="Whatdoes-Holacracypromise" border="0"></a>
 ---
 # Roles in Holacracy
@@ -41,7 +43,7 @@
 - Focus on team's operationa#l work 
 - Discuss issues that came up lately and to solve problems 
 ---
-# Circlestructure of Holacracy
+## Circlestructure of Holacracy
 <a href="https://ibb.co/MN3Qp3Q"><img src="https://i.ibb.co/RHVdPVd/Holacracy-11.jpg" alt="Holacracy-11" border="0"></a>
 ---
 ---
@@ -68,7 +70,7 @@
 # Hierarchy vs. Holacracy
 > "Reading the introductory articles about Holacracy and the Holacracy Constitution 4.0, one can't help but get the impression that Holacracy is hierarchy on steroids." – Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
-## What do you think? 
+##### What do you think? 
 ---
 # Advantages and Challenges
 ## <span style="color:green;">ADVANTAGES</span>
