@@ -40,7 +40,7 @@ https://github.com/henrikekannen/j-H.md.git
 # New Meeting Format 
 ## Tactical Meetings
 - Are held once a week 
-- Focus on team's operationa#l work 
+- Focus on team's operational work 
 - Discuss issues that came up lately and to solve problems 
 ---
 ## Circlestructure of Holacracy
