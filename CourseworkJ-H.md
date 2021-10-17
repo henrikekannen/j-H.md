@@ -5,7 +5,7 @@ https://github.com/henrikekannen/j-H.md.git
 
 ---
 # Agenda
-1. Introduction to the Concept
+1. Introducing the Concept
 2. Approach of Holacracy 
 3. Holacracy vs. Hierarchy 
 4. Advantages and Challenges of Holacracy 
@@ -57,7 +57,7 @@ https://github.com/henrikekannen/j-H.md.git
 <a href="https://ibb.co/47XLrDV"><img src="https://i.ibb.co/9N105fr/Holacraticvs-Hierarchical.jpg" alt="Holacraticvs-Hierarchical" border="0"></a>
 ---
 
-# Hierarchy vs. Holacracy
+## Hierarchy vs. Holacracy
 
 | Hierarchy                   | Holacracy                       |
 | --------------------------- | ------------------------------- |
@@ -67,38 +67,40 @@ https://github.com/henrikekannen/j-H.md.git
 | Firm policies               | Transparent rules               |
 
 ---
-# Hierarchy vs. Holacracy
-> "Reading the introductory articles about Holacracy and the Holacracy Constitution 4.0, one can't help but get the impression that Holacracy is hierarchy on steroids." – Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
+## Hierarchy vs. Holacracy
+> "Reading the introductory articles about Holacracy and the Holacracy Constitution 4.0, one can't help but get the impression that Holacracy is hierarchy on steroids." 
 
-##### What do you think? 
+Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
+
+#### What do you think? 
 ---
-# Advantages and Challenges
-## <span style="color:green;">ADVANTAGES</span>
+## Advantages and Challenges
+### <span style="color:green;">ADVANTAGES</span>
 
-- <span style="color:green;">Increases agility, flexibility, efficiency & transparency</span>
+- Increases agility, flexibility, efficiency & transparency
 
-- <span style="color:green;">Encourages team members to take initiative</span>
+- Encourages team members to take initiative
 
-- <span style="color:green;">Provides a process in which team members ideas and concerns are recognized</span>
+- Provides a process in which team members ideas and concerns are recognized
 
-- <span style="color:green;">Better use of indivdual talents</span>
+- Better use of indivdual talents
 
-- <span style="color:green;">Reduces the burden of leaders</span>
+- Reduces the burden of leaders
 
 --- 
 
-# Advantages and Challenges
-## <span style="color:red;">CHALLENGES</span>
+## Advantages and Challenges
+### <span style="color:red;">CHALLENGES</span>
 
-- <span style="color:red;">Needs special pre-conditions</span>
+- Need for special pre-conditions
 
-- <span style="color:red;">Complex system of rules</span>
+- Complex system of rules
 
-- <span style="color:red;">Cultural fit is important</span>
+- Cultural fit is important
 
-- <span style="color:red;">Self-organization requires a high level of discipline </span>
+- Self-organization requires a high level of discipline
 
-- <span style="color:red;">Transition from hierarchic management to Holacracy takes time & effort </span>
+- Transition from hierarchic management to Holacracy takes time & effort
 
 ---
 
