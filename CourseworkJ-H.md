@@ -12,12 +12,20 @@ https://github.com/henrikekannen/j-H.md.git
 5. Zappos and its Holacracy Approach
 
 ---
+## Introducing the Concept
+- Holacracy = ὁλός, holos (holisitic) and κρατία, kratía (leadership)
+- practice of decentralized management and organizational governance 
+- Initially introduced by entrepreneur Brian Robertson in 2007, now trademarked by HolacracyOne, LLC
+- Related concepts of flat-organization are are for example Sociocracy or Scaled Agile Frameworks 
+
+
+---
 ## What does Holacracy promise?
 <a href="https://ibb.co/y0b0LT5"><img src="https://i.ibb.co/jh1h7KG/Whatdoes-Holacracypromise.jpg" alt="Whatdoes-Holacracypromise" border="0"></a>
 ---
 # Roles in Holacracy
 
-- In Holacracy the employees do not have "job descriptions" they are organizes as <span style="color:red">roles</span>
+- In Holacracy the employees do not have "job descriptions" they are organized as <span style="color:red">roles</span>
 - When a new **role** is defined it is than assigned to a **member** of the organization to fill an **execute**
 - One **member** can have **many different roles**
 - Members **define** and **develop** these roles and can also decide which roles should be **abolished**
@@ -104,8 +112,11 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
 ---
 
-# Zappos an it's Holacracy Approach
+# Zappos and it's Holacracy Approach
 
 ---
 
 # References
+https://hbr.org/2016/07/beyond-the-holacracy-hype
+https://www.clevis.de/ratgeber/holacracy/
+https://www.holaspirit.com/blog/holacracy#limitations
