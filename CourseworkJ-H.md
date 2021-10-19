@@ -25,7 +25,7 @@ https://github.com/henrikekannen/j-H.md.git
 ---
 # Roles in Holacracy
 
-- In Holacracy the employees do not have "job descriptions" they are organized as <span style="color:red">roles</span>
+- In Holacracy the employees do not have "job descriptions" they are organized as **roles**
 - When a new **role** is defined it is than assigned to a **member** of the organization to fill an **execute**
 - One **member** can have **many different roles**
 - Members **define** and **develop** these roles and can also decide which roles should be **abolished**
@@ -33,7 +33,7 @@ https://github.com/henrikekannen/j-H.md.git
 ---
 # New Meeting Format 
 ## Governance Meetings
-- Are held at least one a month 
+- Are held at least once a month 
 - Governance meetings are not about operational issues its about defining, change or abolish roles and also to discuss internal issues
 
 ---
@@ -113,10 +113,16 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 ---
 
 # Zappos and it's Holacracy Approach
-
+- Zappos is an online appareal 
+- 2014 Zappos became famous for implementing Holacracy 
+- 18% of the employees decided to leave the company 
+- Zappos used Holacracy because they wanted to respond to customer feedback quickly and to react to changes faster
 ---
 
 # References
 https://hbr.org/2016/07/beyond-the-holacracy-hype
 https://www.clevis.de/ratgeber/holacracy/
 https://www.holaspirit.com/blog/holacracy#limitations
+https://www.zapposinsights.com/about/holacracy
+Ternès, A., & Wilke, C. D. (Eds.). (2018). Agenda HR–Digitalisierung, arbeit 4.0, new leadership: Was personalverantwortliche und management jetzt nicht verpassen sollten. Springer-Verlag.
+Robertson, B. J. (2007). Organization at the leading edge: Introducing Holacracy™. Integral Leadership Review, 7(3), 1-13.
