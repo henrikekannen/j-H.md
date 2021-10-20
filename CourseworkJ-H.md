@@ -1,25 +1,27 @@
 # HOLACRACY
-## by Julie and Henrike
+### Julie Sobirey & Henrike Kannen
 
 https://github.com/henrikekannen/j-H.md.git
 
 ---
-# Agenda
+# AGENDA
 1. Introducing the Concept
 2. Approach of Holacracy 
 3. Holacracy vs. Hierarchy 
 4. Advantages and Challenges of Holacracy 
 5. Zappos and its Holacracy Approach
 
+
 ---
 ## Introducing the Concept
+
 - Holacracy = ὁλός, holos (holisitic) and κρατία, kratía (leadership)
 - practice of decentralized management and organizational governance 
 - Initially introduced by entrepreneur Brian Robertson in 2007, now trademarked by HolacracyOne, LLC
 - Related concepts of flat-organization are are for example Sociocracy or Scaled Agile Frameworks 
 
-
 ---
+
 ## What does Holacracy promise?
 <a href="https://ibb.co/y0b0LT5"><img src="https://i.ibb.co/jh1h7KG/Whatdoes-Holacracypromise.jpg" alt="Whatdoes-Holacracypromise" border="0"></a>
 ---
@@ -126,3 +128,21 @@ https://www.holaspirit.com/blog/holacracy#limitations
 https://www.zapposinsights.com/about/holacracy
 Ternès, A., & Wilke, C. D. (Eds.). (2018). Agenda HR–Digitalisierung, arbeit 4.0, new leadership: Was personalverantwortliche und management jetzt nicht verpassen sollten. Springer-Verlag.
 Robertson, B. J. (2007). Organization at the leading edge: Introducing Holacracy™. Integral Leadership Review, 7(3), 1-13.
+
+<style>
+    #agenda {
+        font-size: 20pt;
+    }
+
+    #agenda li {
+        padding: 0.5em;
+    }
+
+    <style>
+    #intro {
+        font-size: 20pt;
+    }
+
+    #intro li {
+        padding: 0.5em;
+    }
