@@ -97,7 +97,9 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 ---
 ## Advantages and Challenges
 ----------------------------
-### <span style="color:green;">ADVANTAGES</span>
+<h3 style="color:#8dc18d;">ADVANTAGES</h3>
+
+<span id="pro">
 
 - Increases agility, flexibility, efficiency & transparency
 
@@ -109,11 +111,12 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
 - Reduces the burden of leaders
 
+</span>
 ---
 
 ## Advantages and Challenges
 ----------------------------
-### <span style="color:red;">CHALLENGES</span>
+<h3 style="color:red;">CHALLENGES</h3>
 
 - Need for special pre-conditions
 
@@ -143,3 +146,10 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 - https://www.zapposinsights.com/about/holacracy
 - Ternès, A., & Wilke, C. D. (Eds.). (2018). Agenda HR–Digitalisierung, arbeit 4.0, new leadership: Was personalverantwortliche und management jetzt nicht verpassen sollten. Springer-Verlag.
 - Robertson, B. J. (2007). Organization at the leading edge: Introducing Holacracy™. Integral Leadership Review, 7(3), 1-13.
+
+<style>
+    #pro {
+        font-size: 20pt;
+    }
+    
+</style>
