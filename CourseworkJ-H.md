@@ -7,16 +7,18 @@ https://github.com/henrikekannen/j-H.md.git
 ---
 ## AGENDA
 ---------
+<span id="pro">
+
 1. Introducing the Concept
 2. Approach of Holacracy 
 3. Holacracy vs. Hierarchy 
 4. Advantages and Challenges of Holacracy 
-5. Zappos and its Holacracy Approach
 
 
 ---
 ## Introducing the Concept
 --------------------------
+<span id="pro">
 
 - Holacracy = ὁλός, holos (holisitic) and κρατία, kratía (leadership)
 - practice of decentralized management and organizational governance 
@@ -24,6 +26,7 @@ https://github.com/henrikekannen/j-H.md.git
 - Related concepts of flat-organization are are for example Sociocracy or Scaled Agile Frameworks 
 
 ---
+<span id="pro">
 
 ### What does Holacracy promise?
 -------------------------------
@@ -31,6 +34,8 @@ https://github.com/henrikekannen/j-H.md.git
 ---
 ## Roles in Holacracy
 ---------------------
+<span id="pro">
+
 - In Holacracy the employees do not have "job descriptions" they are organized as **roles**
 - When a new **role** is defined it is than assigned to a **member** of the organization to fill an **execute**
 - One **member** can have **many different roles**
@@ -130,12 +135,12 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
 ---
 
-## Zappos and it's Holacracy Approach
+
 -------------------------------------
-- Zappos is an online appareal 
-- 2014 Zappos became famous for implementing Holacracy 
-- 18% of the employees decided to leave the company 
-- Zappos used Holacracy because they wanted to respond to customer feedback quickly and to react to changes faster
+> When Zappos introduced Holacracy 18% of the employees left the company. What would you do if Holacracy would be introduced in your comapany? Stay or leave? 
+
+------------------------------------
+<a href="https://ibb.co/6Bzp73S"><img src="https://i.ibb.co/hfbnJPN/Unbenanntes-Notizbuch-20.jpg" alt="Unbenanntes-Notizbuch-20" border="0"></a>
 ---
 
 ## References
