@@ -72,13 +72,14 @@ https://github.com/henrikekannen/j-H.md.git
 
 ----
 ## Circlestructure of Holacracy 
+-------------------------------
 - One important role is the lead link 
 - Lead link is similiar to a manager role
 - A lead link can assigne roles, allocate resources and can define the overall strategy 
 - The main difference between a manager and a lead link is that a lead link can not tell the employees how to do their job 
 - Members of the circle can also influence the role and accountabilities of the lead link
-----
 
+---
 ## Integrative decision making 
 ------------------------------
 1. Any circle member can propose changes 
