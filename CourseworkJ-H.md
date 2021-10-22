@@ -102,6 +102,10 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
 #### What do you think? 
 ---
+
+<a href="https://ibb.co/6Bzp73S"><img src="https://i.ibb.co/hfbnJPN/Unbenanntes-Notizbuch-20.jpg" alt="Unbenanntes-Notizbuch-20" border="0"></a>
+
+---
 ## Advantages and Challenges
 ----------------------------
 <h3 style="color:#8dc18d;">ADVANTAGES</h3>
@@ -136,13 +140,8 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 - Transition from hierarchic management to Holacracy takes time & effort
 
 ---
-
-
--------------------------------------
 > When Zappos introduced Holacracy 18% of the employees left the company. What would you do if Holacracy would be introduced in your comapany? Stay or leave? 
 
----
-<a href="https://ibb.co/6Bzp73S"><img src="https://i.ibb.co/hfbnJPN/Unbenanntes-Notizbuch-20.jpg" alt="Unbenanntes-Notizbuch-20" border="0"></a>
 ---
 
 ## References
