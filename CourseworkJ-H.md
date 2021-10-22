@@ -30,8 +30,7 @@ https://github.com/henrikekannen/j-H.md.git
 
 ### What does Holacracy promise?
 -------------------------------
-
-<a href="https://ibb.co/F47JwZs"><img src="https://i.ibb.co/qY19sq0/holacracyoverview.jpg" alt="holacracyoverview" border="0"></a>
+<a href="https://ibb.co/z6Z3w3n"><img src="https://i.ibb.co/HhqcQcF/Unbenanntes-Notizbuch-21.jpg" alt="Unbenanntes-Notizbuch-21" border="0"></a>
 
 ---
 ## Roles in Holacracy
@@ -71,11 +70,20 @@ https://github.com/henrikekannen/j-H.md.git
 -------------------------------
 <a href="https://ibb.co/MN3Qp3Q"><img src="https://i.ibb.co/RHVdPVd/Holacracy-11.jpg" alt="Holacracy-11" border="0"></a>
 
+----
+## Circlestructure of Holacracy 
+-------------------------------
+- One important role is the lead link 
+- Lead link is similiar to a manager role
+- A lead link can assigne roles, allocate resources and can define the overall strategy 
+- The main difference between a manager and a lead link is that a lead link can not tell the employees how to do their job 
+- Members of the circle can also influence the role and accountabilities of the lead link
+
 ---
 ## Integrative decision making 
 ------------------------------
 1. Any circle member can propose changes 
-2. Employees can only propose changes that effect their own work 
+2. Members can only propose changes that effect their own work 
 
 ---
 ## Hierarchy vs. Holacracy
@@ -157,6 +165,8 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
     #pro {
         font-size: 20pt;
     }
+    #backgroundColor: #191919
+    #headingColor: #222
     
 </style>
 
