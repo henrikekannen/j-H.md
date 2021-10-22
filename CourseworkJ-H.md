@@ -83,7 +83,7 @@ https://github.com/henrikekannen/j-H.md.git
 ## Integrative decision making 
 ------------------------------
 1. Any circle member can propose changes 
-2. Employees can only propose changes that effect their own work 
+2. Members can only propose changes that effect their own work 
 
 ---
 ## Hierarchy vs. Holacracy
