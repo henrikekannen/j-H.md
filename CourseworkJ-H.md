@@ -109,9 +109,11 @@ https://github.com/henrikekannen/j-H.md.git
 
 - The circles are linked together by roles 
 - These roles take place in governance meetings and in operational processes 
-- One important role is the lead link 
-- Lead link is similiar to a manager role
-- A lead link can assigne roles, allocate resources and can define the overall strategy 
+
+----
+- One important role is the lead link
+- Lead link is similar to a manager role
+- A lead link can assign roles, allocate resources and can define the overall strategy 
 - The main difference between a manager and a lead link is that a lead link can not tell the employees how to do their job 
 - Members of the circle can also influence the role and accountabilities of the lead link
 
@@ -139,7 +141,7 @@ https://github.com/henrikekannen/j-H.md.git
 
 | Hierarchy                   | Holacracy                       |
 | --------------------------- | ------------------------------- |
-| Top Down Management         | Shared Visison Management
+| Top Down Management         | Shared vision Management
 | Static job descriptions     | Dynamic roles                   |
 | Delegated authority         | Shared authority                | 
 | Major reorganizations       | Fast and iterative improvements |
@@ -168,7 +170,7 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 - Increases agility, flexibility, efficiency & transparency
 - Encourages team members to take initiative
 - Provides a process in which team members ideas and concerns are recognized
-- Better use of indivdual talents
+- Better use of individual talents
 - Reduces the burden of leaders
 
 </span>
@@ -189,7 +191,7 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
 </span>
 ---
-> When Zappos introduced Holacracy 18% of the employees left the company. What would you do if Holacracy would be introduced in your comapany? Stay or leave? 
+> When Zappos introduced Holacracy 18% of the employees left the company. What would you do if Holacracy would be introduced in your company? Stay or leave? 
 
 ---
 
