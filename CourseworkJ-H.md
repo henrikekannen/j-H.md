@@ -59,10 +59,10 @@ https://github.com/henrikekannen/j-H.md.git
 ---------------------
 <span id="roles">
 
-- In Holacracy the employees do not have "job descriptions" they are organized as **roles**
-- When a new **role** is defined it is than assigned to a **member** of the organization to fill an **execute**
-- One **member** can have **many different roles**
-- Members **define** and **develop** these roles and can also decide which roles should be **abolished**
+- Member of the of an organization are organized as roles where the title of the roles becomes secondary 
+- Important are the accountabilities of a role 
+- One member can have many different roles 
+- Employees design and develop the roles by themselves 
 
 </span>
 
@@ -106,8 +106,9 @@ https://github.com/henrikekannen/j-H.md.git
 ----
 ## Circlestructure of Holacracy 
 -------------------------------
-<span id="circle">
 
+- The circles are linked together by roles 
+- These roles take place in governance meetings and in operational processes 
 - One important role is the lead link 
 - Lead link is similiar to a manager role
 - A lead link can assigne roles, allocate resources and can define the overall strategy 
