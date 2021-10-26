@@ -17,7 +17,6 @@ https://github.com/henrikekannen/j-H.md.git
 </span>
 
 ---
-1 Introducing the Concept - 2 - 3 - 4 
 ## Introducing the Concept
 --------------------------
 #### Challenges for organizations
@@ -104,7 +103,7 @@ https://github.com/henrikekannen/j-H.md.git
 <a href="https://ibb.co/MN3Qp3Q"><img src="https://i.ibb.co/RHVdPVd/Holacracy-11.jpg" alt="Holacracy-11" border="0"></a>
 
 ----
-## Circlestructure of Holacracy 
+## Holacracy Circlestructure
 -------------------------------
 
 - The circles are linked together by roles 
