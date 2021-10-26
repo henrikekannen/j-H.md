@@ -58,10 +58,11 @@ https://github.com/henrikekannen/j-H.md.git
 ---------------------
 <span id="roles">
 
-- Member of the of an organization are organized as roles where the title of the roles becomes secondary 
-- Important are the accountabilities of a role 
-- One member can have many different roles 
-- Employees design and develop the roles by themselves 
+- Member of the of an organization are organized as roles 
+- Title of the roles becomes secondary 
+- Important: Accountabilities of a role 
+- Members may have multiple roles 
+- Members design and develop the roles
 
 </span>
 
@@ -71,8 +72,10 @@ https://github.com/henrikekannen/j-H.md.git
 ### Governance Meetings
 <span id="gov">
 
-- Are held at least once a month 
-- Governance meetings are not about operational issues its about defining, change or abolish roles and also to discuss internal issues
+- Held at least once a month 
+- Not about operational issues 
+- Rather defining, change or abolish roles 
+- Discuss internal issues
 </span>
 ---
 
@@ -81,8 +84,9 @@ https://github.com/henrikekannen/j-H.md.git
 ### Daily Stand up Meetings 
 <span id="daily">
 
-- Usually the beginning of a working day (5-10 minutes)
-- Quick check-in about the task every circle member did the previous day and what are their plans for today 
+- Beginning of a working day (5-10 minutes)
+- Quick check-in about the task 
+- Every circle member did the previous day and what are their plans for today 
 
 </span>
 
@@ -103,17 +107,17 @@ https://github.com/henrikekannen/j-H.md.git
 <a href="https://ibb.co/MN3Qp3Q"><img src="https://i.ibb.co/RHVdPVd/Holacracy-11.jpg" alt="Holacracy-11" border="0"></a>
 
 ----
-## Holacracy Circlestructure
+## Circlestructure of Holacracy
 -------------------------------
 
-- The circles are linked together by roles 
-- These roles take place in governance meetings and in operational processes 
+- Circles are linked together by roles 
+- Roles take place in governance meetings and in operational processes 
 
 ----
-- One important role is the lead link
-- Lead link is similar to a manager role
-- A lead link can assign roles, allocate resources and can define the overall strategy 
-- The main difference between a manager and a lead link is that a lead link can not tell the employees how to do their job 
+## Circlestructure of Holacracy
+- Lead link similar to a manager role
+- Lead links assign roles, allocate resources and define the overall strategy 
+- Still difference between manager and lead link
 - Members of the circle can also influence the role and accountabilities of the lead link
 
 </span>
