@@ -58,7 +58,7 @@ https://github.com/henrikekannen/j-H.md.git
 ---------------------
 <span id="roles">
 
-- Member of the of an organization are organized as roles where the title of the roles becomes secondary 
+- Members of an organization are organized as roles where the title of the roles becomes secondary 
 - Important are the accountabilities of a role 
 - One member can have many different roles 
 - Employees design and develop the roles by themselves 
@@ -140,11 +140,11 @@ https://github.com/henrikekannen/j-H.md.git
 
 | Hierarchy                   | Holacracy                       |
 | --------------------------- | ------------------------------- |
-| Top Down Management         | Shared vision Management
+| Top-down management         | Democratic management           |
 | Static job descriptions     | Dynamic roles                   |
 | Delegated authority         | Shared authority                | 
 | Major reorganizations       | Fast and iterative improvements |
-| Firm policies               | Transparent rules               |
+| Complex firm policies       | Transparent rules               |
 
 </span>
 ---
@@ -178,19 +178,19 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
 ## Advantages and Challenges
 ----------------------------
-<h3 style="color:red;">CHALLENGES</h3>
+<h3 style="color:#ed4949;">CHALLENGES</h3>
 
 <span id="challenges">
 
 - Need for special pre-conditions
+- Cultural fit 
 - Complex system of rules
-- Cultural fit is important
 - Self-organization requires a high level of discipline
 - Transition from hierarchic management to Holacracy takes time & effort
 
 </span>
 ---
-> When Zappos introduced Holacracy 18% of the employees left the company. What would you do if Holacracy would be introduced in your company? Stay or leave? 
+> When Zappos introduced Holacracy, 18% of the employees left the company. What would you do if Holacracy would be introduced in your company? Stay or leave? 
 
 ---
 
@@ -202,8 +202,10 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 - https://www.clevis.de/ratgeber/holacracy/
 - https://www.holaspirit.com/blog/holacracy#limitations
 - https://www.zapposinsights.com/about/holacracy
+- https://www.zukunftsinstitut.de/artikel/holacracy-die-hierarchie-der-kreise/
+- Robertson, B. J. (2007). Organization at the leading edge: Introducing Holacracy™. *Integral Leadership Review*, 7(3), 1-13.
 - Ternès, A., & Wilke, C. D. (Eds.). (2018). Agenda HR–Digitalisierung, arbeit 4.0, new leadership: Was personalverantwortliche und management jetzt nicht verpassen sollten. Springer-Verlag.
-- Robertson, B. J. (2007). Organization at the leading edge: Introducing Holacracy™. Integral Leadership Review, 7(3), 1-13.
+- Van de Kamp, P. (2014). Holacracy: A radical approach to organizational design. In H. Dekkers, W. Leuwwis & I. Plantevin (Hrsg.) *Elements of the software development process - Influences on project success and failure* (p.13-22). Amsterdam: University of Amsterdam.
 </span>
 
 <style>
@@ -321,7 +323,7 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 </style>
 <style>
     #ref {
-        font-size: 20pt;
+        font-size: 14pt;
     }
     #ref li {
         padding: 0.5em;
@@ -330,3 +332,4 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
 
 
 <a href="https://ibb.co/y0b0LT5"><img src="https://i.ibb.co/jh1h7KG/Whatdoes-Holacracypromise.jpg" alt="Whatdoes-Holacracypromise" border="0"></a>
+
