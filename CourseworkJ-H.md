@@ -58,10 +58,6 @@ https://github.com/henrikekannen/j-H.md.git
 ---------------------
 <span id="roles">
 
-- Members of an organization are organized as roles where the title of the roles becomes secondary 
-- Important are the accountabilities of a role 
-- One member can have many different roles 
-- Employees design and develop the roles by themselves 
 - Member of the of an organization are organized as roles 
 - Title of the roles becomes secondary 
 - Important: Accountabilities of a role 
@@ -114,12 +110,17 @@ https://github.com/henrikekannen/j-H.md.git
 ----
 ## Circlestructure of Holacracy
 -------------------------------
+<span id="circle">
 
 - Circles are linked together by roles 
 - Roles take place in governance meetings and in operational processes 
-
+</span>
 ----
+
 ## Circlestructure of Holacracy
+-------------------------------
+<span id="circle2">
+
 - Lead link similar to a manager role
 - Lead links assign roles, allocate resources and define the overall strategy 
 - Still difference between manager and lead link
@@ -156,17 +157,22 @@ https://github.com/henrikekannen/j-H.md.git
 | Complex firm policies       | Transparent rules               |
 
 </span>
+
 ---
 ## Hierarchy vs. Holacracy
 --------------------------
-> "Reading the introductory articles about Holacracy and the Holacracy Constitution 4.0, one can't help but get the impression that Holacracy is hierarchy on steroids." 
 
-Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
+<blockquote style="font-size: 15pt;">
+<p>"Reading the introductory articles about Holacracy and the Holacracy Constitution 4.0, one can't help but get the impression that Holacracy is hierarchy on steroids." </p>
+</blockquote>
+<p style="font-size: 12pt;">
+Markus Brinsa (CEO SEIKOURI Inc.), from the article "Holacracy: Die Hierarchie der Kreise"
+</p>
 
-#### What do you think? 
----
+<a href="https://ibb.co/6Bzp73S"><img src="https://i.ibb.co/hfbnJPN/Unbenanntes-Notizbuch-20.jpg" style="width: 7em;" alt="Unbenanntes-Notizbuch-20" border="0"></a>
+</div>
 
-<a href="https://ibb.co/6Bzp73S"><img src="https://i.ibb.co/hfbnJPN/Unbenanntes-Notizbuch-20.jpg" alt="Unbenanntes-Notizbuch-20" border="0"></a>
+<h4>What do you think?</h4>
 
 ---
 ## Advantages and Challenges
@@ -299,6 +305,14 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
     }
 </style>
 <style>
+    #circle2 {
+        font-size: 20pt;
+    }
+    #circle2 li {
+        padding: 0.5em;
+    }
+</style>
+<style>
     #decision {
         font-size: 20pt;
     }
@@ -338,7 +352,13 @@ Markus Brinsa, from the article "Holacracy: Die Hierarchie der Kreise"
         padding: 0.5em;
     }
 </style>
+<style>
+    #citation {
+        font-size: 20pt;
+    }
+    #citation li {
+        padding: 0.5em;
+    }
+</style>
 
-
-<a href="https://ibb.co/y0b0LT5"><img src="https://i.ibb.co/jh1h7KG/Whatdoes-Holacracypromise.jpg" alt="Whatdoes-Holacracypromise" border="0"></a>
 
